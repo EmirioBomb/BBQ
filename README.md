@@ -1,5 +1,5 @@
 # BBQ
-> BBQ Database
+> Fake Online Data
 
 - Supported by [my-json-server](https://my-json-server.typicode.com/)
 - Service is maiintained and provided for free

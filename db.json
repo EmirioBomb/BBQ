@@ -1,15 +1,63 @@
 {
-    "specialMenu": [
+    "user": [
         {
             "id": 1,
-            "name": "锡纸鸡爪子",
-            "price": 22.00,
-            "imageURL": "",
-            "type": "",
-            "remark": "本月特销",
-            "tag": ""
+            "name": "Michale",
+            "age": 22,
+            "nation": "CHN"
+        },
+        {
+            "id": 2,
+            "name": "Jackson",
+            "age": 24,
+            "nation": "USA"
+        },
+        {
+            "id": 3,
+            "name": "Athrun",
+            "age": 19,
+            "nation": "JPN"
+        },
+        {
+            "id": 4,
+            "name": "Akira",
+            "age": 32,
+            "nation": "KOR"
         }
-        
-        
+    ],
+    "course": [
+        {
+            "id": 1,
+            "name": "Math",
+            "price": 100
+        },
+        {
+            "id": 2,
+            "name": "Physics",
+            "price": 200
+        },
+        {
+            "id": 3,
+            "name": "Biology",
+            "price": 500
+        }
+    ],
+    "mecha": [
+        {
+            "name": "Freedom",
+            "number": "ZGMF-X10A",
+            "range": "all"
+        },
+        {
+            "name": "Justice",
+            "number": "ZGMF-G20TS",
+            "range": "all"
+        },
+        {
+            "name": "Destiny",
+            "number": "ZGMF-X42S",
+            "range": "all"
+        }
     ]
+
 }
