@@ -1,0 +1,15 @@
+{
+    "specialMenu": [
+        {
+            "id": 1,
+            "name": "锡纸鸡爪子",
+            "price": 22.00,
+            "imageURL": "",
+            "type": "",
+            "remark": "本月特销",
+            "tag": ""
+        }
+        
+        
+    ]
+}
