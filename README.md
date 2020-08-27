@@ -1,2 +1,6 @@
 # BBQ
-BBQ DB
+> BBQ Database
+
+- Supported by [my-json-server](https://my-json-server.typicode.com/)
+- Service is maiintained and provided for free
+- Fake Online REST API
